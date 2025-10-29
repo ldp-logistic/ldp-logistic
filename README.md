@@ -1,4 +1,4 @@
-<!-- LDP LOGISTIC README -->
+<!-- LDP LOGISTICS README -->
 <p align="center">
   <img src="./LDP_Logistics_Logo.png" alt="LDP Logistic Logo" width="180" />
 </p>
@@ -25,7 +25,7 @@
 
 ## 🚛 About Us
 
-**LDP Logistic** is a full-service logistics and technology company based in **New Jersey, USA**, connecting freight, data, and global trade with precision. We deliver smart logistics solutions powered by data visibility, automation, and AI-driven insights. From domestic freight to global DDP/LDP operations, we make your supply chain faster, safer, and more transparent.
+**LDP Logistics** is a full-service logistics and technology company based in **New Jersey, USA**, connecting freight, data, and global trade with precision. We deliver smart logistics solutions powered by data visibility, automation, and AI-driven insights. From domestic freight to global DDP/LDP operations, we make your supply chain faster, safer, and more transparent.
 
 ---
 
@@ -106,5 +106,5 @@ Check out our latest projects in logistics automation, API development, and data
 ---
 
 <p align="center">
-  <em>© 2025 LDP Logistic Technology. All Rights Reserved.</em>
+  <em>© 2025 LDP Logistics Technology. All Rights Reserved.</em>
 </p>
