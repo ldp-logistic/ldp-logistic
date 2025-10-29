@@ -1,7 +1,8 @@
 <!-- LDP LOGISTIC README -->
 <p align="center">
-  <img src="https://ldplogistic.com/wp-content/uploads/2024/05/ldp-logo.png" alt="LDP Logistic Logo" width="180" />
+  <img src="./LDP_Logistics_Logo.png" alt="LDP Logistic Logo" width="180" />
 </p>
+
 
 <h1 align="center">🌎 LDP Logistic Technology</h1>
 
@@ -18,9 +19,7 @@
 
 ## 🚛 About Us
 
-**LDP Logistic** is a full-service logistics and technology company based in **New Jersey, USA** — connecting freight, data, and global trade with precision.
-
-We deliver smart logistics solutions powered by **data visibility**, **automation**, and **AI-driven insights**. From domestic freight to global DDP/LDP operations, we make your supply chain faster, safer, and more transparent.
+**LDP Logistic** is a full-service logistics and technology company based in **New Jersey, USA** connecting freight, data, and global trade with precision. We deliver smart logistics solutions powered by **data visibility**, **automation**, and **AI-driven insights**. From domestic freight to global DDP/LDP operations, we make your supply chain faster, safer, and more transparent.
 
 ---
 
@@ -39,7 +38,7 @@ We deliver smart logistics solutions powered by **data visibility**, **automatio
 
 ## 💡 Technology Focus
 
-LDP Logistic isn’t just about moving freight — we move **data**.
+LDP Logistic isn’t just about moving freight we move **data**.
 
 - 📈 **Custom Dashboards** for visibility & analytics  
 - 🤖 **AI-driven Routing & Optimization**  
@@ -50,7 +49,7 @@ LDP Logistic isn’t just about moving freight — we move **data**.
 
 ## 🏆 Our Mission
 
-> “To redefine logistics through technology, innovation, and integrity — delivering efficiency without compromise.”
+> “To redefine logistics through technology, innovation, and integrity delivering efficiency without compromise.”
 
 ---
 
