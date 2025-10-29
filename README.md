@@ -89,7 +89,7 @@ LDP Logistic isn’t just about moving freight — we move **data**.
 |------|---------------|
 | Backend | Node.js, Express, FastAPI |
 | Frontend | React, TailwindCSS |
-| Cloud | AWS, Cloudflare, Docker |
+| Cloud | GCP, AWS, Cloudflare, Docker |
 | Data | PostgreSQL, Redis, ElasticSearch |
 | AI / Automation | OpenAI, LangChain, Twilio, Deepgram |
 | CI/CD | GitHub Actions, Docker Compose |
