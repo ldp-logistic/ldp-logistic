@@ -25,8 +25,7 @@
 
 ## 🚛 About Us
 
-**LDP Logistic** is a full-service logistics and technology company based in **New Jersey, USA**, connecting freight, data, and global trade with precision. We deliver smart logistics solutions powered by **data visibility**, **automation**, and **AI-driven insights**.  
-From domestic freight to global DDP/LDP operations, we make your supply chain faster, safer, and more transparent.
+**LDP Logistic** is a full-service logistics and technology company based in **New Jersey, USA**, connecting freight, data, and global trade with precision. We deliver smart logistics solutions powered by data visibility, automation, and AI-driven insights. From domestic freight to global DDP/LDP operations, we make your supply chain faster, safer, and more transparent.
 
 ---
 
