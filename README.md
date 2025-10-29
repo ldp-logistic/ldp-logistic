@@ -3,15 +3,21 @@
   <img src="./LDP_Logistics_Logo.png" alt="LDP Logistic Logo" width="180" />
 </p>
 
-
 <h1 align="center">🌎 LDP Logistic Technology</h1>
 
 <p align="center">
-  <em>Smart Freight. Smarter Technology. Global Reach.</em><br>
-  <a href="https://ldplogistic.com/">🌐 ldplogistic.com</a> • 
-  <a href="mailto:info@ldplogistic.com">✉️ info@ldplogistic.com</a> • 
-  <a href="https://www.linkedin.com/company/ldplogistic/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <em>Smart Freight. Smarter Technology. Global Reach.</em>
+</p>
+
+<p align="center">
+  <a href="https://ldplogistic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit%20Now-1E90FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:info@ldplogistic.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/company/ldplogistic/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -19,14 +25,16 @@
 
 ## 🚛 About Us
 
-**LDP Logistic** is a full-service logistics and technology company based in **New Jersey, USA** connecting freight, data, and global trade with precision. We deliver smart logistics solutions powered by **data visibility**, **automation**, and **AI-driven insights**. From domestic freight to global DDP/LDP operations, we make your supply chain faster, safer, and more transparent.
+**LDP Logistic** is a full-service logistics and technology company based in **New Jersey, USA**, connecting freight, data, and global trade with precision.  
+We deliver smart logistics solutions powered by **data visibility**, **automation**, and **AI-driven insights**.  
+From domestic freight to global DDP/LDP operations, we make your supply chain faster, safer, and more transparent.
 
 ---
 
 ## 🧭 Our Core Services
 
-| Service | Description |
-|----------|--------------|
+| 🌐 Service | Description |
+|------------|--------------|
 | 🚚 **Domestic Transportation** | Nationwide trucking, LTL, and FTL operations. |
 | 🌍 **LDP / DDP Shipping** | Cross-border shipping with duties and taxes handled. |
 | 🏗 **OOG & Heavy Haul** | Oversized and specialized freight handling. |
@@ -38,18 +46,18 @@
 
 ## 💡 Technology Focus
 
-LDP Logistic isn’t just about moving freight we move **data**.
+LDP Logistic isn’t just about moving freight — we move **data**.
 
 - 📈 **Custom Dashboards** for visibility & analytics  
 - 🤖 **AI-driven Routing & Optimization**  
 - 🔐 **Secure API for Real-Time Tracking**  
-- 📊 **Data Insights for Smarter Supply Chains**  
+- 📊 **Data Insights for Smarter Supply Chains**
 
 ---
 
 ## 🏆 Our Mission
 
-> “To redefine logistics through technology, innovation, and integrity delivering efficiency without compromise.”
+> “To redefine logistics through technology, innovation, and integrity — delivering efficiency without compromise.”
 
 ---
 
@@ -65,13 +73,13 @@ LDP Logistic isn’t just about moving freight we move **data**.
 
 <p align="center">
   <a href="https://ldplogistic.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ldplogistic.com-blue?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/Website-ldplogistic.com-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/company/ldplogistic/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-LDP%20Logistic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:info@ldplogistic.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Us-orange?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
