@@ -3,7 +3,7 @@
   <img src="./LDP_Logistics_Logo.png" alt="LDP Logistic Logo" width="180" />
 </p>
 
-<h1 align="center">🌎 LDP Logistic Technology</h1>
+<h1 align="center">🌎 LDP Logistics Technology</h1>
 
 <p align="center">
   <em>Smart Freight. Smarter Technology. Global Reach.</em>
